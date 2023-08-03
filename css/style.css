@@ -1,0 +1,10 @@
+:root {
+    --main_blue: #2B4074;
+    --main_white: #FFFFFF;
+}
+
+.yeah{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
